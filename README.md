@@ -58,3 +58,9 @@ Se han realizado algunas representaciones con esta aplicación. Dichas gráficas
 Con este trabajo han surgido numerosas ideas que se podrían resumir en la creación de más tablas. La tabla introductoria únicamente te habla de viajeros pero podría ser interesante desarrollar el diagrama que he empezado para tener una visión más completa de todo lo que implicó el titanic.
   
 ## 🎓 Bibliografía 🎓
+
+·Blog: http://www.titanic.com/modules/sitemap/
+
+·Mascotas: https://es.wikipedia.org/wiki/Mascotas_a_bordo_del_RMS_Titanic
+
+·Titanic: https://es.wikipedia.org/wiki/RMS_Titanic
