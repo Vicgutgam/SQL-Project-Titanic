@@ -41,6 +41,8 @@ Se ha utilizado SQL principalmente para crear el diagrama de relaciones y con el
 
 ![Diagrama](https://github.com/Vicgutgam/Titanic_2.0/assets/155966045/1fd98e1b-b595-4b5d-acc7-8cf6b677358c)
 
+También se han creado tablas nuevas con las que se puede trabajar en Pythom como son la de Pasajeros-Mascotas, Mascotas o Secciones, la cual está vacía pero que presenta muchas posibilidades.
+
 
 ## 🐍 Trabajo en Python 🐍
 
@@ -49,7 +51,7 @@ Se han modificado el índice de la tabla crew porque se porducía un error en la
 
 ## 📊 Trabajo en Tableau 📊
 
-Se han realizado algunas representaciones con esta aplicación
+Se han realizado algunas representaciones con esta aplicación. Dichas gráficas se pueden ver en la sección de imágenes.
 
 ## 👍 Propuesta de mejora 👍
 
